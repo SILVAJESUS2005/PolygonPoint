@@ -1,0 +1,9 @@
+com\xulab\poligonoapp\Poligono.class
+com\xulab\poligonoapp\App.class
+com\xulab\poligonoapp\dos\PoligonoDos.class
+module-info.class
+com\xulab\poligonoapp\Punto.class
+com\xulab\poligonoapp\dos\Launcher.class
+com\xulab\poligonoapp\dos\App2.class
+com\xulab\poligonoapp\dos\PuntoDos.class
+com\xulab\poligonoapp\SystemInfo.class
